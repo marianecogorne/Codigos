@@ -1,13 +1,14 @@
+@charset "UTF-8";
+
 h1 {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   font-size: 300%;
-  background-color: #040953;
-  color: #fff;
+  color: blue;
 }
 
 body {
-  background-color: #020425;
+  background-color: #ffffff;
   text-align: center;
   padding: 20px 0;
 }
@@ -19,11 +20,11 @@ p {
 }
 
 h2 {
-  color: #ffffff;
+  color: red;
   font-size: 150%;
 }
 
 h3 {
-  color: #ffffff;
+  color: red;
   font-size: 120%;
 }
