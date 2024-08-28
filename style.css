@@ -3,7 +3,7 @@
 h1 {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  font-size: 300%;
+  font-size: 30px;
   color: blue;
 }
 
@@ -15,18 +15,19 @@ body {
 
 p {
   margin: 0;
-  font-size: 100%;
+  font-size: 15px;
   color: black;
+  font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
   color: red;
-  font-size: 150%;
+  font-size: 20%;
   font-family: Arial, sans-serif;
 }
 
 h3 {
   color: red;
-  font-size: 120%;  
+  font-size: 20px;  
 font-family: Arial, sans-serif;
 }
